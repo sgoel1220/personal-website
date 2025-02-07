@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sgoel1220.github.io/personal-website/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/posts/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/posts/post-2/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/tags/primer/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/posts/post-1/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/tags/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/tags/todo/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sgoel1220.github.io/personal-website/categories/</loc>
+  </url>
+</urlset>

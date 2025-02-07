@@ -1,14 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Im a Backend software engineer documenting my learning process"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-us","who","contact"]
+author = "Shubham Goel"
 +++
 
-
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+You can find me at: https://www.linkedin.com/in/shubh67678

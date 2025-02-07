@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sgoel1220.github.io/personal-website/"
 languageCode = "en-us"
 title = "What the tech"
 theme="archie"
